@@ -1,0 +1,17 @@
+fullName
+about
+workXp
+education
+mobileNo
+email
+area
+linkedln
+skill1
+skill2
+skill3
+lang1
+lang2
+lang3
+hobby1
+hobby2
+hobby3
